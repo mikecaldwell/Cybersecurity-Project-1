@@ -1,2 +1,2 @@
-# mikes-cyber-bootcamp
+# Mikes-Cyber-Bootcamp
 Cybersecurity Boot Camp
