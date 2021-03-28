@@ -86,9 +86,9 @@ The playbook implements the following tasks:
 
 The following screenshots display the result of running `docker ps` and 'ansible-playbook' commands after successfully configuring the ELK instance.
 
-(Images/docker_ps.png)
-(Images/myplaybook1.png)
-(Images/elkplaybook1.png)
+![alt text](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/blob/main/Images/docker_ps.png "docker_ps.png")
+![alt text](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/blob/main/Images/myplaybook1.png "myplaybook1.png")
+![alt text](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/blob/main/Images/elkplaybook1.png "elkplaybook1.png")
 
 
 ### Target Machines & Beats
