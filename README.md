@@ -6,15 +6,15 @@ Cybersecurity Boot Camp
 
 The files in this repository were used to configure the network depicted below.
 
-(Diagrams/NetworkDiagram.png)
+(https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/blob/main/Diagrams/NetworkDiagram.png)
 
 These files have been tested and used to generate a live ELK deployment and DVWA (D*mn Vulnerable Web Application) servers on Azure. They can be used to either recreate the entire deployment pictured above.
 Alternatively, select portions of the YML playbook file may be used to install only certain pieces of it, such as Filebeat.
 
-  - [elkplaybook1.yml](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/Ansible/elkplaybook1.yml) - ELK Server Installation
-    - [filebeat-playbook.yml](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/Ansible/filebeat-playbook.yml) - Filebeat Installation
-    - [metricbeat-playbook.yml](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/Ansible/metricbeat-playbook.yml) - Metricbeat Installation
-  - [my-playbook1.yml](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/Ansible/my-playbook1.yml) - DVWA Server Installation
+  - [elkplaybook1.yml](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/blob/main/Ansible/elkplaybook1.yml) - ELK Server Installation
+    - [filebeat-playbook.yml](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/blob/main/Ansible/filebeat-playbook.yml) - Filebeat Installation
+    - [metricbeat-playbook.yml](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/blob/main/Ansible/metricbeat-playbook.yml) - Metricbeat Installation
+  - [myplaybook1.yml](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/blob/main/Ansible/myplaybook1.yml) - DVWA Server Installation
 
 ##### This document contains the following details:
 - Description of the Topologu
