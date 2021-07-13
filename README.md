@@ -17,7 +17,7 @@ Alternatively, select portions of the YML playbook file may be used to install o
   - [myplaybook1.yml](https://github.com/mikecaldwell/Mikes-Cyber-Bootcamp/blob/main/Ansible/myplaybook1.yml) - DVWA Server Installation
 
 ##### This document contains the following details:
-- Description of the Topologu
+- Description of the Topology
 - Access Policies
 - ELK Configuration
   - Beats in Use
